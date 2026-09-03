@@ -1,8 +1,8 @@
 class Myd < Formula
   desc "Vi-like terminal file browser with size bars, treemap, archives and SFTP"
   homepage "https://github.com/tachijuan/myd"
-  url "https://github.com/tachijuan/myd/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "01da34c43c9b5d55d4dd537008de7d00cbd57792e385ed0526b9d9485af23660"
+  url "https://github.com/tachijuan/myd/archive/refs/tags/v1.4.1.tar.gz"
+  sha256 "af4c0a1d26b65e54e08fc55b8604606addc1e9db258e2228545754d8450871b5"
   license "MIT"
   head "https://github.com/tachijuan/myd.git", branch: "master"
 
